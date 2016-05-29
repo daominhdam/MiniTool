@@ -1,0 +1,7 @@
+<suite name="Get Console error log iPad" parallel="methods" thread-count="3">
+<test name="Get Console error log iPad">
+<classes>
+  <class name="com.mh.runner.TestRunnerOnMobile" />
+ </classes>
+</test>
+</suite>

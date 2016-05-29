@@ -1,0 +1,7 @@
+<suite name="Test Run Get URL" parallel="methods" thread-count="3">
+<test name="Test Run Get URL" group-by-instances="true">
+<classes>
+  <class name="com.mh.runner.TestRunnerGetHttpURL" />
+ </classes>
+</test>
+</suite>

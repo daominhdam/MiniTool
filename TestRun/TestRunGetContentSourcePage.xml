@@ -1,0 +1,7 @@
+<suite name="Get Content Source Page" parallel="methods" thread-count="3">
+<test name="Get Content Source Page">
+<classes>
+  <class name="com.mh.runner.TestRunnerGetContentSourcePage" />
+ </classes>
+</test>
+</suite>

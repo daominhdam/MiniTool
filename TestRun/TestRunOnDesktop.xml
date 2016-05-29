@@ -1,0 +1,7 @@
+<suite name="Get Console error log Desktop" parallel="methods" thread-count="3">
+  <test name="Get Console error log Desktop">
+<classes>
+  <class name="com.mh.runner.TestRunnerOnDesktop" />
+ </classes>
+</test>
+</suite>

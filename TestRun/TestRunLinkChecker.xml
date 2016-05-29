@@ -1,0 +1,7 @@
+<suite name="Link Checker Report" parallel="methods" thread-count="4">
+<test name="Link Checker Report" >
+<classes>
+  <class name="com.mh.runner.TestRunnerResponseCode" />
+ </classes>
+</test>
+</suite>
